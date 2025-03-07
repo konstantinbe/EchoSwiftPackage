@@ -23,13 +23,13 @@ let package = Package(
         ),
         .binaryTarget(
             name: "DittoSwift",
-            url: "https://konstantinbe.s3-eu-central-1.amazonaws.com/Shared/DittoSwift.xcframework.zip",
-            checksum: "c8bbbb0b8925f628cc93991d19f5eabbd746284ecda33eccbdad2502b7f36330"
+            url: "https://konstantinbe.s3-eu-central-1.amazonaws.com/Shared/DittoSwift-11.xcframework.zip",
+            checksum: "267fad913bea446a8cc4516804f5dc91cdbeab85927fc0f9010a0140a6364f56"
         ),
         .binaryTarget(
             name: "DittoObjC",
-            url: "https://konstantinbe.s3-eu-central-1.amazonaws.com/Shared/DittoObjC.xcframework.zip",
-            checksum: "5f27ba044a8bfae710f8c9072a5c2bef754ee4df1b45f8645210d49253d2b4cb"
+            url: "https://konstantinbe.s3-eu-central-1.amazonaws.com/Shared/DittoObjC-11.xcframework.zip",
+            checksum: "b0a4ea23a39b34b7874ad2b56c305f3d3a5cbd4d6ae6a2acae878fefe1bc6ce2"
         ),
     ]
 )
